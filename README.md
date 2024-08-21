@@ -1,1 +1,1 @@
-# Create RESTful API with JSON Server and deploy it to Vercel
+# RESTful API with JSON Server and deploy to Vercel
